@@ -13,3 +13,6 @@ print(sapa)
 # string format
 sapa = f"Halo {nama_depan} {nama_belakang}" # f for format
 print(sapa)
+
+sapa2 = 'Halo nama saya {} {}'.format(nama_depan, nama_belakang)
+print(sapa2)
